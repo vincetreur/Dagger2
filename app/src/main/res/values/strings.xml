@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dagger2</string>
+    <string name="btn_login">Show login</string>
+    <string name="btn_details">Show details</string>
+    <string name="login_title">Login</string>
+    <string name="details_title">Details</string>
+    <string name="btn_do_login">Login</string>
+    <string name="current_user">Current user: %1$s</string>
+</resources>

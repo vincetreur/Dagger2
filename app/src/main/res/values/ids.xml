@@ -1,0 +1,7 @@
+<resources>
+    <item name="text_view" type="id" />
+    <item name="user_view" type="id" />
+    <item name="btn_show_login" type="id" />
+    <item name="btn_show_details" type="id" />
+
+</resources>
